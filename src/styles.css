@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+  margin : 0;
+}
+nav{
+  background-color: dodgerblue;
+  padding : 10px;
+}
+nav h3{
+  color : white;
+  margin : 0;
+}
+
+#container{
+  padding : 10px;
+}
+
+span{
+  display: block;
+}
+.card{
+  padding : 1%;
+  margin : 10px;
+  background-color: dodgerblue;
+  color : white;
+  display: inline-block;
+}
